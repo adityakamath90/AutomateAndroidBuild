@@ -9,6 +9,7 @@ To generate build Navigate to gradlew.bat in root directory in command line.
 
 For signed apk enter the following command<br />
 gradlew.bat assembleRelease <br />
+
 For unsigned/debug apk enter the following command<br />
 gradlew.bat assembleDebug <br />
 
